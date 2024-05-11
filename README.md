@@ -3,4 +3,4 @@
 This repository not respect C++ standards<br>
 SFML v2.5.1
 
-the code is copied from another enginer i have removed CMAKE
+the code has been copied from another engineer i have only removed CMAKE

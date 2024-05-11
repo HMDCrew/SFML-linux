@@ -1,8 +1,6 @@
 #include "Include/Game.hpp"
 #include "Include/StringHelpers.hpp"
 
-#include "Include/Game.hpp"
-
 const float Game::PlayerSpeed = 100.f;
 const sf::Time Game::TimePerFrame = sf::seconds(1.f/60.f);
 
